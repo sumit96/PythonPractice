@@ -13,7 +13,6 @@ print(num)
 num=[1.2,'Sumit',29]
 print(num)
 
-
 numNew= ["Amit",3,0.3]
 print(numNew)
 
