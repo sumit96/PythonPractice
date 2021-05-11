@@ -40,7 +40,6 @@ print(num)
 num.extend(['test',4])
 print(num)
 
-
 print(min(num))
 
 newData=[2,39,12,30,1]
